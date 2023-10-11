@@ -3,5 +3,5 @@
 
 ### Try it out in your browser:
 
-![play button (https://github.com/Kamend1/Rock-Paper-Scissors-by-Kamen-in-Python-Fundamentals-SoftUni/assets/142220912/3350ddf4-3ab2-45fa-b0b1-50ad7c4c6daf)](https://replit.com/@kamendd/Rock-Paper-Scissors#main.py)
+[![play button] (https://github.com/Kamend1/Rock-Paper-Scissors-by-Kamen-in-Python-Fundamentals-SoftUni/assets/142220912/3350ddf4-3ab2-45fa-b0b1-50ad7c4c6daf)](https://replit.com/@kamendd/Rock-Paper-Scissors#main.py)
 
